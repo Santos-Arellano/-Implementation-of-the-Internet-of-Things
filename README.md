@@ -57,5 +57,4 @@ This course has no equivalences with other courses.
 For more detailed information about the course content, schedules, assessments, and other important aspects, please refer to the curriculum or contact the Computing academic department at Tecnológico de Monterrey.
 
 **Note:** This README is for informational purposes only and does not replace the official information provided by the educational institution. Always consult official sources for updated information about the course "Implementation of the Internet of Things" (TC1004B).
-# 	Implementation of the Internet of Things
  
