@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspace/-Implementation-of-the-Internet-of-Things/sistemas operativos",
-      "program": "/workspace/-Implementation-of-the-Internet-of-Things/sistemas operativos/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
